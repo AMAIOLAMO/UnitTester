@@ -12,6 +12,8 @@ A really simple unit testing library for godot 4
 
 5. create a function with the prefix of "test_" and start testing!
 
+6. run the scene and check the output console of godot to see the results!
+
 
 ## Example script:
 
